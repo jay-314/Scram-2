@@ -22,9 +22,8 @@
 - Designed, programmed, and shipped with small team
 - Dedicated authoritative servers, client-side predicted, and lag compensated
 
-
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/b4bc3828-0e67-4f55-b152-7c1a0d752860"><img src="https://github.com/user-attachments/assets/b4bc3828-0e67-4f55-b152-7c1a0d752860" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4"><img src="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7"><img src="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7" width="45%"/></a>
 </p>
 <p align="center">
