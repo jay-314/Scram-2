@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A">
-    <img src="https://img.youtube.com/vi/Td4P8-xVd7A/maxresdefault.jpg"
+    <img src="https://github.com/user-attachments/assets/f07d7392-6116-457e-a973-b067dcfe07c4"
          alt="SCRAM Gameplay Demo"
          width="600" />
   </a>
@@ -14,7 +14,7 @@
 
 <img width="1536" height="1024" alt="pause vid" src="https://github.com/user-attachments/assets/12567ecf-af5c-470b-8d4d-d84667e299e8" />
 
-![0127-copy(1)](https://github.com/user-attachments/assets/f07d7392-6116-457e-a973-b067dcfe07c4)
+![0127-copy(1)]()
 
 
 **Scram 2 is a fast-paced multiplayer PvP survival shooter where one team fights to escape while the other uses mutant abilities stop them.**
