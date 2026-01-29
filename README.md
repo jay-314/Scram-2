@@ -1,7 +1,7 @@
 # Scram-2
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A"><strong>▶ Play the Demo</strong></a>
+  <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A"><strong>▶Watch Video Demo</strong></a>
 </p>
 
 <p align="center">
@@ -11,4 +11,3 @@
          width="600" />
   </a>
 </p>
-
