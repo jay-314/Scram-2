@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="link1.png"><img src="https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a" width="45%"/></a>
-  <a href="link2.png"><img src="https://github.com/user-attachments/assets/61146b1d-fb49-43f2-9f5f-edabcabaf110" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a"><img src="https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/61146b1d-fb49-43f2-9f5f-edabcabaf110"><img src="https://github.com/user-attachments/assets/61146b1d-fb49-43f2-9f5f-edabcabaf110" width="45%"/></a>
 </p>
 
 <p align="center">
