@@ -31,7 +31,9 @@
   <a href="https://github.com/user-attachments/assets/28c87c82-b140-424a-9ab7-e94a8ce89d25"><img src="https://github.com/user-attachments/assets/28c87c82-b140-424a-9ab7-e94a8ce89d25" width="45%"/></a>
 </p>
 
-![0127-copy(1)](https://github.com/user-attachments/assets/f07d7392-6116-457e-a973-b067dcfe07c4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f07d7392-6116-457e-a973-b067dcfe07c4" alt="0127-copy(1)" width="600"/>
+</p>
 
 ## My Role - Gamplay Designer/Engineer
 - Game Design and Balancing
