@@ -17,8 +17,8 @@
 ## Key Features
 - Asymmetric PvP with Peasants vs Mutants
 - Evacuation Survival Gameplay Loop
-- Diverse Weapons and Gadgets
-- Distinct Mutant Classes with Unique Abilities
+- Various Weapons and Gadgets
+- Multiple Mutant Classes with Distinct Abilities
 - Designed, programmed, and shipped with small team
 - Dedicated authoritative servers, client-side predicted, and lag compensated
 
