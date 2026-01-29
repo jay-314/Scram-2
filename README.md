@@ -36,17 +36,14 @@
 </p>
 
 ## My Role - Gamplay Designer/Engineer
-- Game Design and Balancing
-- Gameplay Programming
+- Gameplay Design and Programming
 - Multiplayer Networking
-- UI/UX Design and 3D Concept Art
+- UI/UX Design and 3D Concept
 - Soundtracks
-- QA Testing
-- Build & Release
+- QA Test, Build, and Release
 
 ## Tech Stack
-- Unity
-- C#
+- Unity, C#
 - Photon Bolt/Fusion Netcode
 - Blender
 
