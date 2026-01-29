@@ -14,6 +14,9 @@
 
 **SCRAM is a fast-paced multiplayer PvP survival shooter where one team fights to escape while the other evolves into deadly mutants to stop them.**
 
+![ss_5c84d45144c69fa09c3d579981503959a613479a 1920x1080](https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a)
+
+
 ## Key Features
 - Asymmetric PvP with Peasants vs Mutants
 - Evacuation Survival Gameplay Loop
