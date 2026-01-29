@@ -15,24 +15,13 @@
 **SCRAM is a fast-paced multiplayer PvP survival shooter where one team fights to escape while the other evolves into deadly mutants to stop them.**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a" width="45%" />
-  <img src="https://github.com/user-attachments/assets/61146b1d-fb49-43f2-9f5f-edabcabaf110" width="45%" />
+  <a href="https://github.com/user-attachments/assets/fde638ab-4720-4708-be30-9531d71aa9ba"><img src="https://github.com/user-attachments/assets/fde638ab-4720-4708-be30-9531d71aa9ba" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/28c87c82-b140-424a-9ab7-e94a8ce89d25"><img src="https://github.com/user-attachments/assets/28c87c82-b140-424a-9ab7-e94a8ce89d25" width="45%"/></a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a"><img src="https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a" width="45%"/></a>
-  <a href="https://github.com/user-attachments/assets/61146b1d-fb49-43f2-9f5f-edabcabaf110"><img src="https://github.com/user-attachments/assets/61146b1d-fb49-43f2-9f5f-edabcabaf110" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/b4bc3828-0e67-4f55-b152-7c1a0d752860"><img src="https://github.com/user-attachments/assets/b4bc3828-0e67-4f55-b152-7c1a0d752860" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/c2875fe0-8f80-45e4-8e53-ec2a9442cb06"><img src="https://github.com/user-attachments/assets/c2875fe0-8f80-45e4-8e53-ec2a9442cb06" width="45%"/></a>
 </p>
-
-<p align="center">
-  <img src="link3.png" width="45%" />
-  <img src="link4.png" width="45%" />
-</p>
-
-![ss_94a9e917fe84da14f6cf6db2192a076bdc098ccb 1920x1080](https://github.com/user-attachments/assets/61146b1d-fb49-43f2-9f5f-edabcabaf110)
-
-![ss_5c84d45144c69fa09c3d579981503959a613479a 1920x1080](https://github.com/user-attachments/assets/f365e7a5-1b2f-4b32-b8bc-065789df8d1a)
-
 
 ## Key Features
 - Asymmetric PvP with Peasants vs Mutants
