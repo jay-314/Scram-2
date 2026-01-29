@@ -12,7 +12,7 @@
   </a>
 </p>
 
-**Scram 2 is a fast-paced multiplayer PvP survival shooter where one team fights to escape while the other uses mutant abilities stop them.**
+**Scram 2 is a sequel developed for the original game.**
 
 ## Key Features
 - Asymmetric PvP with peasants vs mutants
