@@ -8,7 +8,7 @@
   <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A">
     <img src="https://github.com/user-attachments/assets/12567ecf-af5c-470b-8d4d-d84667e299e8"
          alt="SCRAM Gameplay Demo"
-         width="600" />
+         width="400" />
   </a>
 </p>
 
