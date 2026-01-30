@@ -13,12 +13,12 @@
   <strong>Scram 2 rebuilds the original with refactored mechanics, better performance, enhanced visuals, and upgraded multiplayer.</strong>
 </p>
 
-## Key Features
-- Asymmetric PvP requiring gameplay and balance iteration
-- Authoritative server architecture with client-side prediction and lag compensation
-- Multiplayer physics and state synchronization using Photon Bolt/Fusion
-- Long-term refactoring for scalability and iteration speed
-- Backend integration for live configuration and testing
+## Project Points
+- Refactored legacy gameplay and networking systems for scalability and iteration speed
+- Upgraded multiplayer architecture using Photon Bolt and Fusion
+- Improved performance, state synchronization, and multiplayer physics
+- Rebalanced asymmetric PvP systems based on live production lessons
+- Streamlined project structure for faster development and testing
 <p align="center">
   <a href="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4"><img src="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7"><img src="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7" width="45%"/></a>
@@ -36,17 +36,16 @@
 </p>
 
 ## My Role - Gamplay Designer/Engineer
-- Designed and engineered all core gameplay systems
-- Architected multiplayer networking and synchronization
-- Built UI/UX and 3D gameplay prototypes
-- Implemented audio and feedback systems
-- Managed QA, builds, and release pipeline
+- Led gameplay system redesign and refactoring
+- Updated multiplayer networking and synchronization
+- Improved UI/UX, visuals, and feedback systems
+- Managed testing, builds, and release workflow
 
-## Multiplayer
-- Handling latency in competitive PvP with prediction and reconciliation
-- Synchronizing physics objects across clients
-- Balancing asymmetric roles for long-term engagement
-- Refactoring legacy systems for scalability in the sequel
+## Engineering
+- Refactoring a live project without breaking core gameplay
+- Improving maintainability and performance of existing systems
+- Modernizing multiplayer synchronization and physics handling
+- Designing systems for long-term iteration rather than first-time release
 
 ## Tech Stack
 - Unity, C#
