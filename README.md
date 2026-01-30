@@ -50,5 +50,3 @@
 - Unity, C#
 - Photon Bolt/Fusion Netcode
 - Blender
-
-## Play the Demo
