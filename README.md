@@ -14,8 +14,8 @@
 </p>
 
 ## Project Points
-- Refactored legacy gameplay and networking systems for scalability and iteration speed
-- Upgraded multiplayer architecture using Photon Bolt and Fusion
+- Refactored legacy gameplay and networking for scalability and iteration speed
+- Upgraded multiplayer foundation using Photon Bolt and Fusion
 - Improved performance, state synchronization, and multiplayer physics
 - Rebalanced asymmetric PvP systems based on live production lessons
 - Streamlined project structure for faster development and testing
@@ -35,17 +35,17 @@
   <img src="https://github.com/user-attachments/assets/f07d7392-6116-457e-a973-b067dcfe07c4" alt="0127-copy(1)" width="400"/>
 </p>
 
+## Engineering
+- Refactoring a live project without breaking core gameplay
+- Improving maintainability and performance of existing architecture
+- Modernizing multiplayer synchronization and physics handling
+- Designing mechanics for long-term iteration rather than first-time release
+
 ## My Role - Gamplay Designer/Engineer
-- Led gameplay system redesign and refactoring
+- Led gameplay redesign and refactoring
 - Updated multiplayer networking and synchronization
 - Improved UI/UX, visuals, and feedback systems
 - Managed testing, builds, and release workflow
-
-## Engineering
-- Refactoring a live project without breaking core gameplay
-- Improving maintainability and performance of existing systems
-- Modernizing multiplayer synchronization and physics handling
-- Designing systems for long-term iteration rather than first-time release
 
 ## Tech Stack
 - Unity, C#
