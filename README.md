@@ -1,5 +1,4 @@
 # Scram-2: A Multiplayer PvP Shooter Sequel
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A"><strong>▶Watch Video Demo</strong></a>
 </p>
@@ -22,7 +21,6 @@
 - Multiple mutant classes with distinct abilities
 - Designed, programmed, and shipped with small team
 - Dedicated authoritative servers, client-side predicted, and lag compensated
-
 <p align="center">
   <a href="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4"><img src="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7"><img src="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7" width="45%"/></a>
