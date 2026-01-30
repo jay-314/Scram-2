@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A"><strong>▶Watch Video Demo</strong></a>
 </p>
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A">
     <img src="https://github.com/user-attachments/assets/c9de74fc-08e8-4411-918a-d107e59d6d1e"
