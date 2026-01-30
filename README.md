@@ -10,16 +10,15 @@
   </a>
 </p>
 <p align="center">
-  <strong>Scram 2 is a sequel developed for the original game.</strong>
+  <strong>Scram 2 rebuilds the original with refactored mechanics, better performance, enhanced visuals, and upgraded multiplayer.</strong>
 </p>
 
 ## Key Features
-- Asymmetric PvP with peasants vs mutants
-- Evacuation survival gameplay loop
-- Various weapons and gadgets
-- Multiple mutant classes with distinct abilities
-- Designed, programmed, and shipped with small team
-- Dedicated authoritative servers, client-side predicted, and lag compensated
+- Asymmetric PvP requiring gameplay and balance iteration
+- Authoritative server architecture with client-side prediction and lag compensation
+- Multiplayer physics and state synchronization using Photon Bolt/Fusion
+- Long-term refactoring for scalability and iteration speed
+- Backend integration for live configuration and testing
 <p align="center">
   <a href="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4"><img src="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7"><img src="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7" width="45%"/></a>
@@ -37,11 +36,17 @@
 </p>
 
 ## My Role - Gamplay Designer/Engineer
-- Gameplay Design and Programming
-- Multiplayer Networking
-- UI/UX Design and 3D Concept
-- Soundtracks
-- QA Test, Build, and Release
+- Designed and engineered all core gameplay systems
+- Architected multiplayer networking and synchronization
+- Built UI/UX and 3D gameplay prototypes
+- Implemented audio and feedback systems
+- Managed QA, builds, and release pipeline
+
+## Multiplayer
+- Handling latency in competitive PvP with prediction and reconciliation
+- Synchronizing physics objects across clients
+- Balancing asymmetric roles for long-term engagement
+- Refactoring legacy systems for scalability in the sequel
 
 ## Tech Stack
 - Unity, C#
