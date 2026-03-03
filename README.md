@@ -16,6 +16,7 @@
 ## Project Points
 - Refactored legacy gameplay and networking for scalability and iteration speed
 - Upgraded multiplayer foundation using Photon Bolt and Fusion
+- Updated gameplay mechanics, UI, UX, art, and sound systems.
 - Improved performance, state synchronization, and multiplayer physics
 - Rebalanced asymmetric PvP systems based on live production lessons
 - Streamlined project structure for faster development and testing
