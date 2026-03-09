@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/user-attachments/assets/0dac6cbb-fb14-4957-b314-d3a7297da0da"><img src="https://github.com/user-attachments/assets/0dac6cbb-fb14-4957-b314-d3a7297da0da" width="45%"/></a>
-  <a href="https://github.com/user-attachments/assets/9be839d7-3707-49b8-852d-4196dd0a4c4d"><img src="https://github.com/user-attachments/assets/9be839d7-3707-49b8-852d-4196dd0a4c4d" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/abac937d-16d4-4fb4-9886-5acfbb623f19"><img src="https://github.com/user-attachments/assets/abac937d-16d4-4fb4-9886-5acfbb623f19" width="45%"/></a>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f07d7392-6116-457e-a973-b067dcfe07c4" alt="0127-copy(1)" width="400"/>
