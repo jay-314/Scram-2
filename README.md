@@ -39,7 +39,7 @@
 ## Engineering
 - Refactoring a live project without breaking core gameplay
 - Improving maintainability and performance of existing architecture
-- Redesigning UI, visuals, and sound.
+- Redesigning visuals and sound.
 - Modernizing multiplayer synchronization and physics handling
 - Designing mechanics for long-term iteration rather than first-time release
 
