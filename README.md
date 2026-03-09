@@ -15,11 +15,11 @@
 </p>
 
 ## Key Points
-- Refactored legacy gameplay and networking for scalability and iteration speed
-- Updated gameplay mechanics, UI/UX, VFX/SFX
+- Refactored legacy gameplay and networking for scalability and performance
+- Upgraded gameplay mechanics, UI/UX, VFX/SFX
 - Rebalanced asymmetric PvP systems based on live production lessons
-- Improved graphics and network performance, state synchronization, and multiplayer physics
-- Streamlined project structure for faster development and testing
+- Improved graphics performance, state synchronization, and multiplayer physics
+- Streamlined project structure and modular gameplay system for faster development and testing
 <p align="center">
   <a href="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4"><img src="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7"><img src="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7" width="45%"/></a>
@@ -39,13 +39,14 @@
 ## Engineering
 - Refactoring a live project without breaking core gameplay
 - Improving maintainability and performance of existing architecture
+- Redesigning UI, visuals, and sound.
 - Modernizing multiplayer synchronization and physics handling
 - Designing mechanics for long-term iteration rather than first-time release
 
 ## My Role - Gamplay Engineer and Designer
 - Led gameplay redesign and refactoring
 - Improved UI/UX, visuals, and feedback systems
-- Updated multiplayer networking and synchronization
+- Updated multiplayer networking
 - Managed testing, builds, and release workflow
 
 ## Tech Stack
