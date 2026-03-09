@@ -10,17 +10,16 @@
   </a>
 </p>
 <p align="center">
-  <strong>Scram 2 rebuilds the original with refactored mechanics, better performance, enhanced visuals, and upgraded multiplayer.</strong>
+  <strong>Scram 2 rebuilds the original with refactored mechanics, improved performance, enhanced visuals, and upgraded multiplayer.</strong>
 </p>
 
 Steam Store Page: https://store.steampowered.com/app/1410410/Scram_2/
 
-## Project Points
+## Key Points
 - Refactored legacy gameplay and networking for scalability and iteration speed
-- Upgraded multiplayer foundation using Photon Bolt and Fusion
-- Updated gameplay mechanics, UI, UX, art, and sound systems.
-- Improved performance, state synchronization, and multiplayer physics
+- Updated gameplay mechanics, UI/UX, VFX/SFX
 - Rebalanced asymmetric PvP systems based on live production lessons
+- Improved graphics and network performance, state synchronization, and multiplayer physics
 - Streamlined project structure for faster development and testing
 <p align="center">
   <a href="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4"><img src="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4" width="45%"/></a>
@@ -44,13 +43,13 @@ Steam Store Page: https://store.steampowered.com/app/1410410/Scram_2/
 - Modernizing multiplayer synchronization and physics handling
 - Designing mechanics for long-term iteration rather than first-time release
 
-## My Role - Gamplay Designer/Engineer
+## My Role - Gamplay Engineer and Designer
 - Led gameplay redesign and refactoring
-- Updated multiplayer networking and synchronization
 - Improved UI/UX, visuals, and feedback systems
+- Updated multiplayer networking and synchronization
 - Managed testing, builds, and release workflow
 
 ## Tech Stack
 - Unity, C#
-- Photon Bolt/Fusion Netcode
+- Photon Fusion and Bolt Netcode
 - Blender
