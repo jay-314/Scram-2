@@ -11,9 +11,8 @@
 </p>
 <p align="center">
   <strong>Scram 2 rebuilds the original with refactored mechanics, improved performance, enhanced visuals, and upgraded multiplayer.</strong>
+  Steam Store Page: https://store.steampowered.com/app/1410410/Scram_2/
 </p>
-
-Steam Store Page: https://store.steampowered.com/app/1410410/Scram_2/
 
 ## Key Points
 - Refactored legacy gameplay and networking for scalability and iteration speed
